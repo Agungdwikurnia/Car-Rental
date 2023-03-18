@@ -1,0 +1,33 @@
+.button1 {
+    position: flex;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    color: green;
+
+}
+
+.btn btn-primary {
+    color: green;
+}
+.custom{
+    flex-grow: unset
+}
+.custom-brand{
+    position: flex;
+    background-color: blue;
+    height: 34px;
+    width: 100px;
+    left: 136px;
+    top: 25px;
+    border-radius: 0px;
+
+}
+img {
+    position: absolute;
+    width: 704px;
+    height: 407px;
+    left: 1440px;
+    top: 97px;
+}
